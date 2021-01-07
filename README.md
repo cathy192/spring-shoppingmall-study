@@ -1,10 +1,13 @@
 # Spring Boot Shoppingmall 프로젝트 V1
 ## 사용 라이브러리 버전
 Spring Boot : `2.4.1`
+
 Spring Data JPA : `2.4.2`
+
 H2 DataBase : `1.4.200`
 
 Spring Boot Devtools : `2.4.1` 
+
 Lombok Annotation Processor  : `1.18.16` 
 
 
